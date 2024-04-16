@@ -1,0 +1,1 @@
+curl -u user:fc7e82cf-ce64-4612-9bb3-71229c9ddc15 http://localhost:8080/hello
